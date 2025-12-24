@@ -36,3 +36,7 @@ Start the development server with this command:
 npm run dev
 
 The app will then be available in your web browser.
+
+### Development Process
+
+This prototype was developed during the Gen AI Exchange Hackathon using Google AI Studio and Gemini API. It serves as a conceptual model for gamified mental wellness.
